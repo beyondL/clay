@@ -11,6 +11,10 @@ var source = [
     './src/node/data.js',
     './src/node/event.js',
 
+    // 区域
+    './src/region/modify.js',
+    './src/region/index.js',
+
     // 工具
     './src/tool/animation.js',
     './src/tool/calc.js',
@@ -23,7 +27,8 @@ var source = [
     './src/math/transform3D/scale.js',
 
     // 映射计算
-    './src/scale/map.js',
+    './src/scale/map/ploar.js',
+    './src/scale/map/index.js',
 
     // 布局
     './src/layout/tree.js',
